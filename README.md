@@ -1,4 +1,4 @@
-# CSCI1301
+# CSCI1301 Projects
 
 CSCI 1301 Projects
 
